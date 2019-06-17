@@ -1,0 +1,29 @@
+<data>
+    <AAA>
+        <CCC>
+            <BBB>This</BBB>
+        </CCC>
+        <CCC>
+            <BBB>is</BBB>
+        </CCC>
+        <CCC>
+            <BBB>test1</BBB>
+        </CCC>
+    </AAA>
+
+    <AAA>
+        <CCC>
+            <BBB>This is test</BBB>
+        </CCC>
+    </AAA>
+
+   <AAA>
+        <CCC>
+            <BBB>222222</BBB>
+        </CCC>
+        <CCC>
+            <BBB>333333</BBB>
+        </CCC>
+    </AAA>
+
+</data>

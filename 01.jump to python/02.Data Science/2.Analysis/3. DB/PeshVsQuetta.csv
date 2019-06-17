@@ -1,0 +1,6 @@
+address,student_ID,student_age,student_name,total_course_info
+대구광역시 파티마 병원 옆 포시즌 302호,ITT001,31,민선킴,"{'learning_course_info': [{'close_date': '2018-09-05', 'course_code': 'IB171106', 'course_name': 'IoT 빅데이터 실무반', 'open_date': '2017-11-06', 'teacher': '이현구'}], 'num_of_course_learned': 2}"
+대구광역시 달서구 성지로 14안길 17,ITT002,29,전수범,"{'learning_course_info': [{'close_date': '2018-09-05', 'course_code': 'IB171106', 'course_name': 'IoT 빅데이터 실무반', 'open_date': '2017-11-06', 'teacher': '이현구'}, {'close_date': '2018-08-05', 'course_code': 'OB171106', 'course_name': '오픈소스기반 빅데이터 실무반', 'open_date': '2018-01-06', 'teacher': '이현구'}], 'num_of_course_learned': 1}"
+동구 신암동,ITT003,29,전민하,"{'learning_course_info': [{'close_date': '2019-01-01', 'course_code': 'IB2929', 'course_name': '할렐루야', 'open_date': '2018-01-01', 'teacher': '이현구'}], 'num_of_course_learned': 2}"
+북구 강암동,ITT004,33,김민하,"{'learning_course_info': [{'close_date': '2019-01-01', 'course_code': 'IB2929', 'course_name': '할렐루야', 'open_date': '2018-01-01', 'teacher': '구현김'}], 'num_of_course_learned': 1}"
+서울 한성구,ITT006,33,길동이,"{'learning_course_info': [{'close_date': 'd', 'course_code': 'd', 'course_name': 'd', 'open_date': '222222', 'teacher': 'd'}], 'num_of_course_learned': 3}"

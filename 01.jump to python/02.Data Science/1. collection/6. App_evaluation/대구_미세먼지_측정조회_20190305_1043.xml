@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<response>
+ <body>
+  <items>
+   <item>
+    <stationName>신암동</stationName>
+    <dataTime>2019-03-05 10:00</dataTime>
+    <stationName>신암동</stationName>
+    <pm10Value>94</pm10Value>
+    <pm25Value>62</pm25Value>
+   </item>
+  </items>
+ </body>
+</response>

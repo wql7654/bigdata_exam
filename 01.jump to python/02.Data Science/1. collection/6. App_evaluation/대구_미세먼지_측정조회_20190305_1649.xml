@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<response>
+ <body>
+  <items>
+   <item>
+    <stationName>신암동</stationName>
+    <dataTime>2019-03-05 17:00</dataTime>
+    <khaiValue>277</khaiValue>
+    <khaiGrade>4</khaiGrade>
+    <pm10Value>114</pm10Value>
+    <pm25Value>81</pm25Value>
+   </item>
+  </items>
+ </body>
+</response>
